@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bf0788a61da1b146bc895901dd094b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BirthHive: {fileID: 3208268755233909868, guid: 4e7f2a29d49ef754bbd8802ac1ad06ee, type: 3}
+  - BeeObject: {fileID: 2450471073788937527, guid: e0f418a065e7632458f2445b374439d3, type: 3}
+  - flowerObject: {fileID: 680582840124788704, guid: 8947659cc90310743a1cc939e6c03b1c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
